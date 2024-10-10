@@ -41,7 +41,7 @@ export default {
         },
         {
           id: 2,
-          name: "Amber",
+          name: "Ámber",
           rarity: "4 star",
           vision: "Pyro",
           weaponType: "Bow",
@@ -585,12 +585,17 @@ export default {
         return filtered.sort((a, b) => {
           const aValue = a[this.sortKey];
           const bValue = b[this.sortKey];
-
+          
           if (this.sortOrder === 'asc') {
-            return aValue > bValue ? 1 : -1;
+            return aValue.localeCompare(bValue)
           } else {
-            return aValue < bValue ? 1 : -1;
+            return bValue.localeCompare(aValue)
           }
+          // if (this.sortOrder === 'asc') {
+          //   return aValue > bValue ? 1 : -1;
+          // } else {
+          //   return aValue < bValue ? 1 : -1;
+          // }
         });
       }
       return filtered;
