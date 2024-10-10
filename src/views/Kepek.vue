@@ -1,5 +1,7 @@
 <template>
-  <h3>heló képek</h3>
+    <div>
+        
+    </div>
 </template>
 
 <script>

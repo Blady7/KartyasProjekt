@@ -610,12 +610,7 @@ export default {
 </script>
 
 <style>
-  body {
-    background-image: url('https://images5.alphacoders.com/109/1099191.jpg');
-    background-position: center;
-    background-attachment: fixed;
-    font-family: 'Arial', sans-serif;
-  }
+
 
   .container-fluid2 {
     border-radius: 10px;
