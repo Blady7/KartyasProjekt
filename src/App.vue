@@ -43,7 +43,7 @@ export default {
 <template>
   <header>
     <div class="container-fluid my-border my-container">
-      <h1 class="navbar-title">Kártya Projekt</h1>
+      <h1 class="navbar-title">Card Project</h1>
       <nav
         class="my-border p-4 d-flex justify-content-between align-items-center navbar"
       >

@@ -41,7 +41,7 @@ export default {
         },
         {
           id: 2,
-          name: "Ámber",
+          name: "Amber",
           rarity: "4 star",
           vision: "Pyro",
           weaponType: "Bow",
