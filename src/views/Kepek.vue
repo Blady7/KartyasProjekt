@@ -122,7 +122,7 @@ export default {
           id: 8,
           name: "Zhongli",
           image: "zhongli.png",
-          imageStanding: "zhonlgi_allo.png",
+          imageStanding: "zhongli_allo.png",
           text: [
             "Zhongli ( kínai :钟离 Zhōnglí ) egy játszható Geo karakter a Genshin Impactban .",
             "A Wangsheng temetkezési szalon tanácsadója , akiről később kiderül, hogy ő a Geo Archon , Morax , aki úgy döntött, hogy egy halandó szemszögéből tapasztalja meg a világot.",
