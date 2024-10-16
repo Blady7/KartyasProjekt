@@ -60,22 +60,22 @@ export default {
         },
         {
           id: 2,
-          name: "Arlecchino",
-          image: "arlecchino.png",
-          imageStanding: "arlecchino_allo.png",
-          text: [
-            "Arlecchino , más néven  The Knave  egy játszható Pyro karakter a Genshin Impactban .",
-            "Ő a Negyedik a Tizenegy Fatui Hírnök közül és a Tűzhely Házának jelenlegi vezetője . 'Atyának' szólítják a Ház tagjai, akiket 'gyermekeinek' hív.",
-          ],
-        },
-        {
-          id: 3,
           name: "Xilonen",
           image: "xilonen.png",
           imageStanding: "xilonen_allo.png",
           text: [
             "Xilonen egy játszható Geo karakter a Genshin Impactban .",
             "A Nanatzcayan kovácsa, különösen ügyes abban, hogy megtalálja az egyensúlyt a munkája nehéz feladatai és a jó életvitel között.",
+          ],
+        },
+        {
+          id:3,
+          name: "Arlecchino",
+          image: "arlecchino.png",
+          imageStanding: "arlecchino_allo.png",
+          text: [
+            "Arlecchino , más néven  The Knave  egy játszható Pyro karakter a Genshin Impactban .",
+            "Ő a Negyedik a Tizenegy Fatui Hírnök közül és a Tűzhely Házának jelenlegi vezetője . 'Atyának' szólítják a Ház tagjai, akiket 'gyermekeinek' hív.",
           ],
         },
         {
