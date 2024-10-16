@@ -31,15 +31,15 @@
   
   <style>
 .search-button {
-  background-color: #e79510; /* Narancssárga gomb */
-  border: none; /* Nincs keret a gomb körül */
-  font-weight: bold; /* Vastag betűtípus */
-  color: white; /* Fehér szín a gomb szövegéhez */
-  border-radius: 12px; /* Lekerekített sarkok */
-  padding: 5px 10px; /* Extra padding a gomb körül */
+  background-color: #e79510;
+  border: none;
+  font-weight: bold;
+  color: white;
+  border-radius: 12px;
+  padding: 5px 10px;
 }
 
 .search-button:hover {
-  background-color: #e67e22; /* Sötétebb narancssárga hover állapotban */
+  background-color: #e67e22;
 }
   </style>

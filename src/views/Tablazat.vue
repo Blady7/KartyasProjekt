@@ -580,7 +580,6 @@ export default {
         );
       });
 
-      // Rendezés
       if (this.sortKey) {
         return filtered.sort((a, b) => {
           const aValue = a[this.sortKey];
@@ -625,11 +624,11 @@ export default {
 
   table {
     width: 100%;
-    background-color: rgba(255, 255, 255, 0.9); /* Táblázat átlátszó háttere */
+    background-color: rgba(255, 255, 255, 0.9);
     border-collapse: collapse;
     text-align: left;
-    border: 2px solid black; /* Szilárd keret a táblázatnak */
-    border-radius: 10px; /* Kerekített sarkok */
+    border: 2px solid black;
+    border-radius: 10px;
     overflow: hidden;
     cursor: pointer;
   }
@@ -640,28 +639,26 @@ export default {
   }
 
   th {
-    color: #fff; /* Fehér szín a fejlécnek */
-    background-color: #555; /* Sötétszürke háttér a fejlécnek */
+    color: #fff;
+    background-color: #555;
   }
 
   td {
     color: #555;
   }
 
-  /* Váltakozó háttérszínek a táblázat sorainál */
   tr:nth-child(even) {
-    background-color: #f9f9f9; /* Világos szürke a páros sorokhoz */
+    background-color: #f9f9f9;
   }
 
   tr:nth-child(odd) {
-    background-color: #fff; /* Fehér a páratlan sorokhoz */
+    background-color: #fff;
   }
 
   tr:hover {
-    background-color: #f1f1f1; /* Hover hatás */
+    background-color: #f1f1f1;
   }
 
-  /* Responsív elrendezés mobilra */
   @media (max-width: 768px) {
     table, th, td {
       font-size: 14px;

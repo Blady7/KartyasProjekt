@@ -85,52 +85,52 @@ export default {
 
 <style scoped>
 .container-fluid {
-  background-color: #555; /* Aranysárga háttér */
-  padding: 20px; /* Padding a konténeren belül */
-  border-radius: 10px; /* Lekerekített sarkok */
+  background-color: #555;
+  padding: 20px;
+  border-radius: 10px;
 }
 
 .my-header {
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Árnyék a fejlécre */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 .navbar-title {
   text-align: center;
   color: white;
-  margin: 0; /* Nincs margó */
+  margin: 0;
 }
 
 .navbar {
-  background-color: rgba(255, 255, 255, 0.8); /* Fehér háttér a navigációnak */
-  padding: 15px; /* Padding a navigáción belül */
-  border-radius: 8px; /* Lekerekített sarkok */
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 15px;
+  border-radius: 8px;
 }
 
 .navbar-links {
-  color: #4d3c24; /* A linkek színe most szürke */
-  font-weight: bold; /* Vastagabb betűtípus */
-  margin: 0 10px; /* Margó a linkek között */
-  text-decoration: none; /* Nincs aláhúzás */
+  color: #4d3c24;
+  font-weight: bold;
+  margin: 0 10px;
+  text-decoration: none;
 }
 
 .navbar-links a {
-  color: #4d3c24; /* Linkek színe */
-  text-decoration: none; /* Aláhúzás eltüntetése */
+  color: #4d3c24;
+  text-decoration: none;
 }
 
 .navbar-links a:hover {
-  color: #3c3321; /* Sötétebb szürke hover állapotban */
+  color: #3c3321;
 }
 
 .search-button {
-  background-color: #e79510; /* Narancssárga gomb */
-  border: none; /* Nincs keret a gomb körül */
-  font-weight: bold; /* Vastag betűtípus */
-  color: white; /* Fehér szín a gomb szövegéhez */
+  background-color: #e79510;
+  border: none;
+  font-weight: bold;
+  color: white;
 }
 
 .search-button:hover {
-  background-color: #e67e22; /* Sötétebb narancssárga hover állapotban */
+  background-color: #e67e22;
 }
 </style>
 

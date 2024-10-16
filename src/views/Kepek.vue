@@ -7,7 +7,6 @@
       :id="character.id"
       @ModalOperating="ModalOperator"
     >
-      <!-- itt leszenek a v-slot-ok -->
       <template v-slot:image>
         <img :src="character.image" :alt="character.name" :character="character.name" class="character-image" />
       </template>
