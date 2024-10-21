@@ -11,7 +11,7 @@ Ez a projekt egy *Genshin Impact* karaktereket bemutató alkalmazás, amelyben n
 # Menüpontok, funkciók
 - **Home**: A főoldal, ahol a karakterek listája található.
 - **Táblázat**: A karakterek adatait tartalmazó táblázat.
-- **Kártyák**: Kedven karaktereim bemutatása kártyák formájában.
+- **Kártyák**: Kedvenc karaktereim bemutatása kártyák formájában.
 - **Keresés**: Lehetőség a karakterek keresésére név vagy leírás alapján.
 - **Szűrés**: A karakterek szűrése a keresett kifejezések alapján.
 
