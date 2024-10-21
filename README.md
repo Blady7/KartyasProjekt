@@ -41,7 +41,8 @@ Ez a projekt egy *Genshin Impact* karaktereket bemutató alkalmazás, amelyben n
 
     - **KepekComp.vue**: Egyedi karakterkártyák. Karakterek kártyakomponense, amely a képeket és neveket tartalmazza.
     - **CharacterInfo.vue**: Modal ablak a karakterek részletes információinak megjelenítésére. Modal, amely a kiválasztott karakter részletes adatait jeleníti meg.
-![alt text](image-2.png)
+
+    ![alt text](image-2.png)
 
 ## Modulok
 
@@ -49,7 +50,8 @@ Ez a projekt egy *Genshin Impact* karaktereket bemutató alkalmazás, amelyben n
 
     - **kepek.vue**: Fő modul a karakter kártyák megjelenítésére.
     - **Tablazat.vue**: Fő modul a táblázat megjelenítésére.
-![alt text](image-3.png)
+
+    ![alt text](image-3.png)
 
 - style
 
@@ -61,10 +63,12 @@ Ez a projekt egy *Genshin Impact* karaktereket bemutató alkalmazás, amelyben n
 
 - A karakterek listája szűrhető a felhasználó által beírt keresett szavak alapján.
 - A **Find** metódus kiemeli a keresett szavakat a szövegben.
-![alt text](image-4.png)
+
+    ![alt text](image-4.png)
 
 ## Rendezés táblázaton belül
 
 - Hozzá adtam egy sajátos lehetőséget amivel a táblázaton belül lehet változtatni a sorrednet.
-![alt text](image-5.png)
+
+    ![alt text](image-5.png)
 
