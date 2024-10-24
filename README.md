@@ -68,7 +68,7 @@ Ez a projekt egy *Genshin Impact* karaktereket bemutató alkalmazás, amelyben n
 
 ## Rendezés táblázaton belül
 
-- Hozzá adtam egy sajátos lehetőséget amivel a táblázaton belül lehet változtatni a sorrendet.
+- Hozzá adtam egy sajátos lehetőséget amivel a táblázaton belül lehet változtatni a **sorrendet**.
 
     ![alt text](image-5.png)
 
